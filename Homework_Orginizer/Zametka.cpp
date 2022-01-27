@@ -1,0 +1,1 @@
+#include "Zametka.h"
